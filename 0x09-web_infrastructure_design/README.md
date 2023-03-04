@@ -2,7 +2,7 @@
 
 ## Description
 
-This project for web infrastructure designs that could be implemented in any web development project.
+This project a single collaboration for web infrastructure designs that could be implemented in any web development project by Otu Bright Ihenna.
 
 ## Designs Presented
 
